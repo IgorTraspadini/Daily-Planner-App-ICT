@@ -11,6 +11,7 @@ Here are the requirements:
 - Persist events between refreshes of a page.
 <br>
 
+![screenshot](https://github.com/IgorTraspadini/Daily-Planner-App-ICT/assets/126266157/23755aaf-0cba-4b01-9316-69dfdd74fe46)
 
 ## Language
 - HTML5
