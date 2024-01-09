@@ -41,6 +41,7 @@ header {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  text-align: center;
 }
 
 .past {
@@ -63,6 +64,11 @@ header {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
+  background-image: url("../img/16_floppy_guardar_save_icon.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 100%;
   color: white;
 }
 
